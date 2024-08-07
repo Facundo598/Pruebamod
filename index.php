@@ -131,7 +131,7 @@
 			<DIV class="titulo">Título página web</DIV>
 			
 			<DIV class="menusuperior">
-				<DIV class="menu"><A href="#">Link1</A></DIV>
+				<DIV class="menu"><A href="#">Linkdd1</A></DIV>
 				<DIV class="menu"><A href="#">Link2</A></DIV>
 				<DIV class="menu"><A href="#">Link3</A></DIV>
 				<DIV class="menu"><A href="#">Link4</A></DIV>
@@ -147,7 +147,7 @@
 				<DIV class="lateralizq">
 					<H2>Menu principal</H2>
 					<H3>Entrada 1</H3>
-					<H3>Entrada 2</H3>
+					<H3>Entraddda 2</H3>
 					<H3>Entrada 3</H3>
 					<H3>Entrada 4</H3>
 					<H3>Entrada 5</H3>
